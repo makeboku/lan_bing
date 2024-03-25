@@ -16,7 +16,7 @@ draft: false
 
 ### 本站主题
 
-[https://github.com/makeboku/lan_bingzhuti/tree/master](https://github.com/makeboku/lan_bingzhuti/tree/master)
+[https://github.com/oulh/hugo-webstack](https://github.com/oulh/hugo-webstack)
 
 ### 便捷编辑
 
